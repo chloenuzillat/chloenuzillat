@@ -1,1 +1,1 @@
-# chloenuzillat
+![Profile](README-cropped.svg)
