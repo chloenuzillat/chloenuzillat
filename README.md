@@ -1,1 +1,1 @@
-![Profile](README-cropped.svg)
+![Profile](info.svg)
