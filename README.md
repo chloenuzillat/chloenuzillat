@@ -1,1 +1,1 @@
-![Profile](info2.svg)
+![Profile](info3.svg)
